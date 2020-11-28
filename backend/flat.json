@@ -1,0 +1,342 @@
+[
+  {
+    "apartment_id": "12321",
+    "resident_type": "owner",
+    "flat_id": "0211",
+    "flat_number": "1001",
+    "block": "Block-A",
+    "flat_image": [
+      "https://media.architecturaldigest.in/wp-content/uploads/2017/12/05-866x487.jpg"
+    ],
+    "flat_resident": [
+      {
+        "_id": "1521",
+        "name": "Gargi Das",
+        "gender": "Female",
+        "age": "23"
+      },
+      {
+        "_id": "1522",
+        "name": "Gautam Das",
+        "gender": "Male",
+        "age": "53"
+      },
+      {
+        "_id": "1523",
+        "name": "Mithu Das",
+        "gender": "Female",
+        "age": "43"
+      }
+    ]
+  },
+
+  {
+    "apartment_id": "12321",
+    "resident_type": "owner",
+    "flat_id": "0211",
+    "flat_number": "1001",
+    "block": "Block-A",
+    "flat_image": [
+      "https://media.architecturaldigest.in/wp-content/uploads/2017/12/05-866x487.jpg"
+    ],
+    "flat_resident": [
+      {
+        "_id": "1521",
+        "name": "Gargi Das",
+        "gender": "Female",
+        "age": "23"
+      },
+      {
+        "_id": "1522",
+        "name": "Gautam Das",
+        "gender": "Male",
+        "age": "53"
+      },
+      {
+        "_id": "1523",
+        "name": "Mithu Das",
+        "gender": "Female",
+        "age": "43"
+      }
+    ]
+  },
+
+  {
+    "apartment_id": "12321",
+    "resident_type": "tenant",
+    "flat_id": "0212",
+    "flat_number": "1002",
+    "block": "Block-A",
+    "flat_image": [
+      "https://media.architecturaldigest.in/wp-content/uploads/2017/12/Khandala-Villa13-866x487.jpg"
+    ],
+    "flat_resident": [
+      {
+        "_id": "1531",
+        "name": "Bhaswati Singh",
+        "gender": "Female",
+        "age": "26"
+      },
+      {
+        "_id": "1532",
+        "name": "Anupam Singh",
+        "gender": "Male",
+        "age": "28"
+      }
+    ]
+  },
+
+  {
+    "apartment_id": "12321",
+    "resident_type": "tenant",
+    "flat_id": "0213",
+    "flat_number": "1003",
+    "block": "Block-B",
+    "flat_image": [
+      "https://media.architecturaldigest.in/wp-content/uploads/2017/12/Khandala-Villa16.jpg"
+    ],
+    "flat_resident": [
+      {
+        "_id": "1541",
+        "name": "Saheli Goswami",
+        "gender": "Female",
+        "age": "24"
+      },
+      {
+        "_id": "1542",
+        "name": "Bhaskar Goswami",
+        "gender": "Male",
+        "age": "30"
+      },
+      {
+        "_id": "1543",
+        "name": "Kuheli Goswami",
+        "gender": "Female",
+        "age": "26"
+      },
+      {
+        "_id": "1544",
+        "name": "Anisha Goswami",
+        "gender": "Female",
+        "age": "28"
+      }
+    ]
+  },
+
+  {
+    "apartment_id": "12321",
+    "resident_type": "tenant",
+    "flat_id": "0214",
+    "flat_number": "1004",
+    "block": "Block-B",
+    "flat_image": [
+      "https://media.architecturaldigest.in/wp-content/uploads/2017/12/Khandala-Villa16.jpg"
+    ],
+    "flat_resident": [
+      {
+        "_id": "1551",
+        "name": "Rishav Kumar",
+        "gender": "Male",
+        "age": "21"
+      },
+      {
+        "_id": "1542",
+        "name": "Pratyush Singh",
+        "gender": "Male",
+        "age": "30"
+      },
+      {
+        "_id": "1543",
+        "name": "Monojeet Mondal",
+        "gender": "Male",
+        "age": "26"
+      },
+      {
+        "_id": "1544",
+        "name": "Amit Kumar",
+        "gender": "Male",
+        "age": "24"
+      }
+    ]
+  },
+
+  {
+    "apartment_id": "12321",
+    "resident_type": "owner",
+    "flat_id": "0215",
+    "flat_number": "1005",
+    "block": "Block-C",
+    "flat_image": [
+      "https://media.architecturaldigest.in/wp-content/uploads/2017/12/New-Delhi-Duplex-Blue-Bedroom-and-Work-Corner-866x487.jpg"
+    ],
+    "flat_resident": [
+      {
+        "_id": "1561",
+        "name": "Kavita Kumari",
+        "gender": "Female",
+        "age": "21"
+      },
+      {
+        "_id": "1562",
+        "name": "Rakesh Jain",
+        "gender": "Male",
+        "age": "30"
+      }
+    ]
+  },
+
+  {
+    "apartment_id": "12321",
+    "resident_type": "owner",
+    "flat_id": "0216",
+    "flat_number": "1006",
+    "block": "Block-C",
+    "flat_image": [
+      "https://media.architecturaldigest.in/wp-content/uploads/2017/12/Show-Flat-1-866x487.jpg"
+    ],
+    "flat_resident": [
+      {
+        "_id": "1571",
+        "name": "Santu Sarkar",
+        "gender": "Male",
+        "age": "41"
+      },
+      {
+        "_id": "1572",
+        "name": "Jayeshree Sarkar",
+        "gender": "Female",
+        "age": "28"
+      },
+      {
+        "_id": "1573",
+        "name": "Suhina Sarkar",
+        "gender": "Female",
+        "age": "10"
+      }
+    ]
+  },
+
+  {
+    "apartment_id": "12321",
+    "resident_type": "tenant",
+    "flat_id": "0217",
+    "flat_number": "1007",
+    "block": "Block-D",
+    "flat_image": [
+      "https://media.architecturaldigest.in/wp-content/uploads/2017/12/Show-Flat-1-866x487.jpg"
+    ],
+    "flat_resident": [
+      {
+        "_id": "1571",
+        "name": "Santu Sarkar",
+        "gender": "Male",
+        "age": "41"
+      },
+      {
+        "_id": "1572",
+        "name": "Jayeshree Sarkar",
+        "gender": "Female",
+        "age": "28"
+      },
+      {
+        "_id": "1573",
+        "name": "Suhina Sarkar",
+        "gender": "Female",
+        "age": "10"
+      }
+    ]
+  },
+
+  {
+    "apartment_id": "12321",
+    "resident_type": "owner",
+    "flat_id": "0217",
+    "flat_number": "1007",
+    "block": "Block-D",
+    "flat_image": [
+      "https://media.architecturaldigest.in/wp-content/uploads/2017/12/Living-and-Dining-02-866x487.jpg"
+    ],
+    "flat_resident": [
+      {
+        "_id": "1581",
+        "name": "Mou Das",
+        "gender": "Female",
+        "age": "35"
+      },
+      {
+        "_id": "1582",
+        "name": "Manoj Das",
+        "gender": "Male",
+        "age": "48"
+      },
+      {
+        "_id": "1583",
+        "name": "Ekansha Das",
+        "gender": "Female",
+        "age": "15"
+      }
+    ]
+  },
+
+  {
+    "apartment_id": "12321",
+    "resident_type": "owner",
+    "flat_id": "0217",
+    "flat_number": "1007",
+    "block": "Block-D",
+    "flat_image": [
+      "https://media.architecturaldigest.in/wp-content/uploads/2017/12/Living-and-Dining-02-866x487.jpg"
+    ],
+    "flat_resident": [
+      {
+        "_id": "1581",
+        "name": "Mou Das",
+        "gender": "Female",
+        "age": "35"
+      },
+      {
+        "_id": "1582",
+        "name": "Manoj Das",
+        "gender": "Male",
+        "age": "48"
+      },
+      {
+        "_id": "1583",
+        "name": "Ekansha Das",
+        "gender": "Female",
+        "age": "15"
+      }
+    ]
+  },
+
+  {
+    "apartment_id": "12321",
+    "resident_type": "owner",
+    "flat_id": "0217",
+    "flat_number": "1007",
+    "block": "Block-",
+    "flat_image": [
+      "https://media.architecturaldigest.in/wp-content/uploads/2017/12/Living-and-Dining-02-866x487.jpg"
+    ],
+    "flat_resident": [
+      {
+        "_id": "1581",
+        "name": "Mou Das",
+        "gender": "Female",
+        "age": "35"
+      },
+      {
+        "_id": "1582",
+        "name": "Manoj Das",
+        "gender": "Male",
+        "age": "48"
+      },
+      {
+        "_id": "1583",
+        "name": "Ekansha Das",
+        "gender": "Female",
+        "age": "15"
+      }
+    ]
+  }
+]

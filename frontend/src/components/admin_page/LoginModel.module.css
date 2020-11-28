@@ -1,0 +1,24 @@
+.main {
+  width: 420px;
+  margin: auto;
+  padding: 2em;
+  text-align: left;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: large;
+}
+
+.title {
+  font-weight: 700;
+  margin-top: 0px;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.main .input {
+  width: 100%;
+  padding: 10px 16px;
+}
+
+.main button {
+  width: 100%;
+}
